@@ -10,6 +10,7 @@ Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find pr
 * Python
 * GIS
 * Planetary science
+* Inversion and forward modelling
 
 ## Satellite experience:
 * LiDAR
