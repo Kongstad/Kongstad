@@ -12,7 +12,7 @@ Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find pr
 * Planetary science
 * Inversion and forward modelling
 
-## Satellite experience:
+## Satellite data experience:
 * LiDAR
 * Multi Spectral Imaging (Sentinel-2 etc.)
 * inSAR (Sentinel-1 etc.)
