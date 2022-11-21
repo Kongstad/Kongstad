@@ -1,7 +1,7 @@
 # Welcome
 Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find projects from my university time and all the new projects I have been working on lately
-* Degree: Bachelor and Masters in Geoscience
-* Last job: Geophysicist for 3.5 years at Qeye
+* Education: Bachelor and Masters degrees in Geoscience
+* Previous job: Geophysicist for 3.5 years at Qeye
 * Nationality: Danish 
 
 ## Skillset and interests: 
@@ -16,7 +16,7 @@ Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find pr
 * LiDAR
 * Multi Spectral Imaging (Sentinel-2 etc.)
 * inSAR (Sentinel-1 etc.)
-* Delphini-1 (Cubesat I built)
+* Delphini-1 (1U-Cubesat I built during university)
 
 ## Contact information:
 * Email: kongstad25@gmail.com
