@@ -19,8 +19,9 @@ Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find pr
 * Delphini-1 (1U-Cubesat I built during university)
 
 ## Contact information:
-* Email: kongstad25@gmail.com
+* Email: info@pkongstad.com
 * LinkedIn: https://www.linkedin.com/in/p-kongstad/
+* Website: https://www.pkongstad.com/
 
 <!--
 **Kongstad/Kongstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
