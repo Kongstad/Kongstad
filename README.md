@@ -1,7 +1,7 @@
 # Welcome
 Hi, my name is Peter, thanks for stopping by my portfolie! Here you will find projects from my university time and all the new projects I have been working on lately
 * Education: Bachelor and Masters degrees in Geoscience
-* Previous job: Geophysicist for 3.5 years at Qeye
+* Job: Remote Sensing Scientist at Agreena
 * Nationality: Danish 
 
 ## Skillset and interests: 
