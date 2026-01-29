@@ -17,6 +17,7 @@ PyTorch, scikit-learn
 
 ## Portfolio Projects
 
+### Soon available for public release
 Building open-source projects demonstrating production geospatial engineering:
 
 - STAC API implementation for satellite data access
