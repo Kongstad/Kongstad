@@ -29,9 +29,11 @@ Building open-source projects demonstrating production geospatial engineering:
 
 ## Professional Background
 
-MSc Geoscience from University of Copenhagen. Three years developing satellite data infrastructure, MRV systems, and agricultural monitoring products at Agreena.
+MSc Geoscience from University of Copenhagen.
 
-Work includes STAC-native platforms, rotation-bias-corrected productivity analysis, multi-modal analysis pipelines, and LLM-powered agricultural insights.
+**Agreena (2022-present):** Satellite data infrastructure, MRV systems, and agricultural monitoring products. Built STAC-native platforms, rotation-bias-corrected productivity analysis, multi-modal analysis pipelines, and LLM-powered agricultural insights.
+
+**QEye (2019-2022):** QI Geophysicist, data scientist, and project manager. Time series analysis and software prototyping for geophysical applications across Copenhagen, Australia, and Malaysia.
 
 ## Contact
 
