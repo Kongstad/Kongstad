@@ -1,5 +1,5 @@
 # Welcome
-Hi, my name is Peter, thanks for stopping by my portfoli0! Here you will find projects from my university time and experimental projects dabbling with earth observation data. All work related repos are under lock and key and I can unfortunately not show what I mainly work on. Therefore most content on here is old.
+Hi, my name is Peter, thanks for stopping by my portfolio! Here you will find projects from my university time and experimental projects dabbling with earth observation data. All work related repos are under lock and key and I can unfortunately not show what I mainly work on. Therefore most content on here is old.
 * Education: Bachelor and Masters degrees in Geoscience
 * Job: Remote Sensing Scientist at Agreena
 
