@@ -17,10 +17,14 @@ PyTorch, scikit-learn
 
 ## Portfolio Projects
 
-### Soon available for public release
+### Released
+
+- **[sat-data-acquisition](https://github.com/Kongstad/sat-data-acquisition)** - Lightweight Python package for downloading satellite imagery from multiple STAC sources with a standardized API (Available on PyPI)
+
+### In Development
+
 Building open-source projects demonstrating production geospatial engineering:
 
-- STAC API implementation for satellite data access
 - React-based satellite imagery visualization
 - Multi-temporal NDVI analysis with statistical methods
 - Land cover classification using machine learning
