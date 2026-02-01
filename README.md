@@ -20,12 +20,12 @@ PyTorch, scikit-learn
 ### Released
 
 - **[sat-data-acquisition](https://github.com/Kongstad/sat-data-acquisition)** - Lightweight Python package for downloading satellite imagery from multiple STAC sources with a standardized API (Available on PyPI)
+- **[sat-data-viewer](https://github.com/Kongstad/sat-data-viewer)** - Client-side web application for exploring satellite data from Microsoft Planetary Computer. Interactive visualization with multi-collection support (Sentinel-2, Landsat, SAR, DEM, MODIS), measurement tools, and dynamic band selection ([Live Demo](https://kongstad.github.io/sat-data-viewer/))
 
 ### In Development
 
 Building open-source projects demonstrating production geospatial engineering:
 
-- React-based satellite imagery visualization
 - Multi-temporal NDVI analysis with statistical methods
 - Land cover classification using machine learning
 - LiDAR-derived terrain and hydrological analysis
