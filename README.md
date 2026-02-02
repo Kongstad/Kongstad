@@ -21,6 +21,8 @@ PyTorch, scikit-learn
 
 - **[sat-data-acquisition](https://github.com/Kongstad/sat-data-acquisition)** - Lightweight Python package for downloading satellite imagery from multiple STAC sources with a standardized API (Available on PyPI)
 - **[sat-data-viewer](https://github.com/Kongstad/sat-data-viewer)** - Client-side web application for exploring satellite data from Microsoft Planetary Computer. Interactive visualization with multi-collection support (Sentinel-2, Landsat, SAR, DEM, MODIS), measurement tools, and dynamic band selection ([Live Demo](https://kongstad.github.io/sat-data-viewer/))
+- **[sat-data-viewer-backend](https://github.com/Kongstad/sat-data-viewer-backend)** - FastAPI serverless backend for satellite imagery downloads. Deployed on AWS Lambda with format conversion, rate limiting, and bot protection
+
 
 ### In Development
 
