@@ -44,6 +44,7 @@ MSc Geoscience from University of Copenhagen.
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/p-kongstad/
+
 Email: kongstad25@gmail.com
 
-Copenhagen, Denmark (relocating to Seattle, End of 2026)
+Copenhagen, Denmark
