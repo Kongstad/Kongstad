@@ -1,6 +1,6 @@
 # Peter Kongstad
 
-Remote Sensing Specialist and Geospatial Data Engineer at Agreena. I design and build production systems that process satellite data at scale, integrating multi-sensor observations with ground truth to deliver monitoring products for agriculture.
+Senior Remote Sensing Specialist and Geospatial Data Engineer at Agreena. I design and build production systems that process satellite data at scale, integrating multi-sensor observations with ground truth to deliver monitoring products for agriculture.
 
 Most of my professional work lives in private repositories. I'm building portfolio projects here to demonstrate similar technical capabilities using public data.
 
