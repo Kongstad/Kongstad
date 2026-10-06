@@ -17,6 +17,7 @@ PyTorch, scikit-learn
 
 ## Hobby Projects
 
+- **[planetary-scanner](https://github.com/Kongstad/planetary-scanner)** - Learning project exploring a local LLM, a text encoder, and retrieval-augmented generation (RAG) over scientific reference data. The planetary scanner is a fun interface for the AI pipeline, with viewers for Earth, Luna, Mars, and Sol ([Live Demo](https://kongstad.github.io/planetary-scanner/), LLM offline).
 - **[sat-data-acquisition](https://github.com/Kongstad/sat-data-acquisition)** - Lightweight Python package for downloading satellite imagery from multiple STAC sources with a standardized API (Available on PyPI)
 - **[sat-data-viewer](https://github.com/Kongstad/sat-data-viewer)** - Client-side web application for exploring satellite data from Microsoft Planetary Computer. Interactive visualization with multi-collection support (Sentinel-2, Landsat, SAR, DEM, MODIS), measurement tools, and dynamic band selection ([Live Demo](https://kongstad.github.io/sat-data-viewer/))
 - **[sat-data-viewer-backend](https://github.com/Kongstad/sat-data-viewer-backend)** - FastAPI serverless backend for satellite imagery downloads. Deployed on AWS Lambda with format conversion, rate limiting, and bot protection
