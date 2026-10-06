@@ -25,7 +25,7 @@ PyTorch, scikit-learn
 
 ## Professional Background
 
-MSc Geoscience from University of Copenhagen.
+MSc Geoscience from University of Aarhus.
 
 **Agreena (2022-present):** Satellite data infrastructure, MRV systems, and agricultural monitoring products. Built STAC-native platforms, rotation-bias-corrected productivity analysis, multi-modal analysis pipelines, and LLM-powered agricultural insights.
 
